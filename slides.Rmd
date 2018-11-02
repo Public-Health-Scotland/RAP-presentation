@@ -1,0 +1,118 @@
+---
+title: "Reproducible <br> Analytical Pipelines"
+subtitle: "Transforming Publishing Awareness Session"
+author: 'Anna Price <br> Information Services Division <br>'
+date: "December 4, 2018 <br><br> Slides: https://github.com/NHS-NSS-transforming-publications/RAP-presentation <br><br> RAP companion: https://ukgovdatascience.github.io/rap_companion/"
+output:
+  ioslides_presentation:
+    css: my-theme.css
+---
+
+```{r setup, include = FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Reproducible research
+
+- Not a new concept
+- Encouraged and growing within academia for last 10-15 years
+- Provides evidence of the correctness of results
+- Exposes workflow to others
+- Enables others to make use of methods and results
+
+Insert image of Trustworthiness pillar from UKSA code of practice to link with transparency principle - Carolyn
+
+## Current publication process
+
+```{r out.width = "80%", fig.align='center'}
+include_graphics("images/current_state.png")
+```
+
+- Complex (many steps between software)
+- Prone to error
+- Manual, menial tasks carried out by highly skilled people
+- Not reproducible or sustainable
+
+Insert image of Quality pillar from UKSA code of practice to link with second bullet point - Carolyn
+
+## The solution
+
+Insert images of the two Matts
+[RAP companion](https://ukgovdatascience.github.io/rap_companion/)
+
+Combined the priniciples of **reproducible research** with **data science tools and best practice**.
+
+```{r out.width = "60%", fig.align='center'}
+include_graphics("images/desired_state.png")
+```
+
+## Why R?
+
+```{r out.width = "80%", fig.align='center'}
+include_graphics("images/r_vs_python.jpg")
+```
+
+## What is RAP?
+
+Insert jigsaw puzzle image - Carolyn
+
+## Transforming Publishing test case: Hospital Standardised Mortality <br> Ratio publication
+
+Insert images of HSMR summary, report and excel tables
+
+## Levels of automation
+
+Not every publication (or piece of analytical work) will be suitable for the "Full RAP" treatment.
+
+Insert table
+
+## Interested in RAP?
+
+Ask yourself the following questions... 
+<br>
+- How many reports do your team produce?
+- What proportion of time is spent on producing reports?
+- What would your team do if their time was freed up from menial, manual tasks?
+- How much copying and pasting or data movement between software is involved?
+- What would the impact of mistakes in production be, e.g.  policy or funding allocation?
+- Could your team create the report if certain team members suddenly left?
+- Could you reproduce your publication statistics from 5 years ago?
+- What proportion of your spreadsheet or report contains errors?
+
+Contact the Transforming Publishing team (nss.isdtransformingpublishing@nhs.net)
+
+## Thank You {.smaller}
+<div class="columns-1">
+<ul>
+```{r out.width = "15%"}
+include_graphics("images/Anna_Avatar.jpg")
+```
+<br>
+```{r out.width = "5%"}
+include_graphics("images/twitter.png")
+```
+@price_AH
+<br>
+```{r out.width = "5%", }
+include_graphics("images/github.png")
+```
+annahprice
+</ul>
+</div>
+
+```{r out.width = "60%", fig.align='center'}
+include_graphics("images/team.png")
+```
+
+Need to udpate team image
+
+Contact Transforming Publishing: nss.isdtransformingpublishing@nhs.net
+
+Transforming Publishing on GitHub: <br> https://github.com/NHS-NSS-transforming-publications
+
+ISD on GitHub: https://github.com/Health-SocialCare-Scotland
+
+RAP companion: https://bit.ly/2PhLYbL
+
+
