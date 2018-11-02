@@ -67,6 +67,15 @@ Not every publication (or piece of analytical work) will be suitable for the "Fu
 
 Insert table
 
+## Challenges
+Culture change in terms of peer review and working in the open
+New software such as R and git
+Complicated  process to learn
+Range of data sources across and within publications
+Unstable production process (typically publications with new/developmental data sources)
+Required development time
+IT e.g. R server and internally hosted code repository
+
 ## Interested in RAP?
 
 Ask yourself the following questions... 
