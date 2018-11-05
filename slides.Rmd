@@ -10,6 +10,8 @@ output:
 
 ```{r setup, include = FALSE}
 library(knitr)
+library(magrittr)
+library(kableExtra)
 
 knitr::opts_chunk$set(echo = FALSE)
 
@@ -82,8 +84,9 @@ include_graphics("images/hsmr.png")
 ## Levels of automation
 
 ```{r, echo = FALSE}
-    knitr::kable(automation_levels,
-                 col.names = c("Level", "Description"))
+    kable(automation_levels,
+          col.names = c("Level", "Description"),
+          format = "markdown")
 ```
 
 ## Challenges
