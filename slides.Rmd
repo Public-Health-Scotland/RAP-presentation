@@ -36,7 +36,9 @@ automation_levels <- data.frame(c(1:3, c("4a", "4b"), 5:7),
 - Exposes workflow to others
 - Enables others to make use of methods and results
 
-Insert image of Trustworthiness pillar from UKSA code of practice to link with transparency principle - Carolyn
+```{r out.width = "40%", fig.align='center'}
+include_graphics("images/trust.png")
+```
 
 ## Current publication process
 
@@ -49,7 +51,9 @@ include_graphics("images/current_state.png")
 - Manual, menial tasks carried out by highly skilled people
 - Not reproducible or sustainable
 
-Insert image of Quality pillar from UKSA code of practice to link with second bullet point - Carolyn
+```{r out.width = "25%", fig.align='right'}
+include_graphics("images/quality.png")
+```
 
 ## The solution
 
