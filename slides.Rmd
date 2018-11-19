@@ -63,16 +63,10 @@ include_graphics("images/rap_matts.png")
 
 [RAP companion](https://ukgovdatascience.github.io/rap_companion/)
 
-Combined the priniciples of **reproducible research** with **data science tools and best practice**.
+Combined the principles of **reproducible research** with **data science tools and best practice**.
 
 ```{r out.width = "55%", fig.align = 'center'}
 include_graphics("images/desired_state.png")
-```
-
-## Why R?
-
-```{r out.width = "80%", fig.align = 'center'}
-include_graphics("images/r_vs_python.jpg")
 ```
 
 ## What is RAP?
