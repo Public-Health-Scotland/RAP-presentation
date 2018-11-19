@@ -77,7 +77,9 @@ include_graphics("images/r_vs_python.jpg")
 
 ## What is RAP?
 
-Insert jigsaw puzzle image - Carolyn
+```{r out.width = "110%", fig.align = 'center'}
+include_graphics("images/rap_jigsaw.jpg")
+```
 
 ## Transforming Publishing test case: Hospital Standardised Mortality <br> Ratio publication
 
