@@ -120,10 +120,12 @@ Contact me: anna.price5@nhs.net
 
 Contact Transforming Publishing: nss.isdtransformingpublishing@nhs.net
 
-Transforming Publishing on GitHub: <br> https://github.com/NHS-NSS-transforming-publications
+[Transforming Publishing web pages](http://www.isdscotland.org/Products-and-Services/Transforming-Publishing-Programme/)
 
-PHI on GitHub: https://github.com/Health-SocialCare-Scotland
+[Transforming Publishing on GitHub](https://github.com/NHS-NSS-transforming-publications)
 
-RAP companion: https://bit.ly/2PhLYbL
+[PHI on GitHub](https://github.com/Health-SocialCare-Scotland)
+
+[RAP companion](https://bit.ly/2PhLYbL)
 
 

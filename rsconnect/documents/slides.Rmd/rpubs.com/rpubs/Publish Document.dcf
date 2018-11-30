@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/442210/6b52b3230d6c4a5e8769254fdb4bbf38
+bundleId: https://api.rpubs.com/api/v1/document/442210/6b52b3230d6c4a5e8769254fdb4bbf38
+url: http://rpubs.com/annahprice/442210
+when: 1543581099.37286
