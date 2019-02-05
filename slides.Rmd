@@ -126,6 +126,6 @@ Contact Transforming Publishing: nss.isdtransformingpublishing@nhs.net
 
 [PHI on GitHub](https://github.com/Health-SocialCare-Scotland)
 
-[RAP companion](https://bit.ly/2PhLYbL)
+[RAP companion](https://ukgovdatascience.github.io/rap_companion/)
 
 
